@@ -7,9 +7,9 @@
 * YAGNI (https://ru.wikipedia.org/wiki/YAGNI)
 
 *Библиотека программиста*
-* Джошуа Блох "Java. Эффективное программирование" (http://www.ozon.ru/context/detail/id/21724143)
-* Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
-* Р. Мартин "Чистый код" (http://www.ozon.ru/context/detail/id/28336354)
+* [complete] Джошуа Блох "Java. Эффективное программирование" (http://www.ozon.ru/context/detail/id/21724143)
+* [in progress] Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
+* [in progress] Р. Мартин "Чистый код" (http://www.ozon.ru/context/detail/id/28336354)
 * С. Макконел "Совершенный код" (http://www.ozon.ru/context/detail/id/3159814)
 * Кент Бек "Экстремальное программирование" (http://www.ozon.ru/context/detail/id/136152776)
 * Michael Feathers "Working effectively with Legacy code" (http://www.ozon.ru/context/detail/id/4311012)
