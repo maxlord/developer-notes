@@ -7,10 +7,10 @@
 * YAGNI (https://ru.wikipedia.org/wiki/YAGNI)
 
 *Библиотека программиста*
-* [complete] Джошуа Блох "Java. Эффективное программирование" (http://www.ozon.ru/context/detail/id/21724143)
-* [in progress] Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
-* [complete] Р. Мартин "Чистый код" (http://www.ozon.ru/context/detail/id/28336354)
-* [complete] Р. Мартин "Идеальный программист. Как стать профессионалом разработки ПО" (http://www.ozon.ru/context/detail/id/7360633)
+* [~complete~] Джошуа Блох "Java. Эффективное программирование" (http://www.ozon.ru/context/detail/id/21724143)
+* [*in progress*] Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
+* [~complete~] Р. Мартин "Чистый код" (http://www.ozon.ru/context/detail/id/28336354)
+* [~complete~] Р. Мартин "Идеальный программист. Как стать профессионалом разработки ПО" (http://www.ozon.ru/context/detail/id/7360633)
 * С. Макконел "Совершенный код" (http://www.ozon.ru/context/detail/id/3159814)
 * Кент Бек "Экстремальное программирование" (http://www.ozon.ru/context/detail/id/136152776)
 * Michael Feathers "Working effectively with Legacy code" (http://www.ozon.ru/context/detail/id/4311012)
