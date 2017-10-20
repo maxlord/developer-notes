@@ -8,7 +8,7 @@
 
 *Библиотека программиста*
 * [**complete**] Джошуа Блох "Java. Эффективное программирование" (http://www.ozon.ru/context/detail/id/21724143)
-* [*in progress*] Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
+* [**complete**] Банда четырех "Приемы объектно-ориентированного проектирования. Паттерны проектирования" (http://www.ozon.ru/context/detail/id/2457392)
 * [**complete**] Р. Мартин "Чистый код" (http://www.ozon.ru/context/detail/id/28336354)
 * [**complete**] Р. Мартин "Идеальный программист. Как стать профессионалом разработки ПО" (http://www.ozon.ru/context/detail/id/7360633)
 * С. Макконел "Совершенный код" (http://www.ozon.ru/context/detail/id/3159814)
